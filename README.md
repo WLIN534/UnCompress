@@ -7,6 +7,5 @@ jar:下载地址：http://mvnrepository.com/artifact/com.github.junrar/junrar
  * WinRAR5.0以下版本压缩生成的文件是rar4,可以解压出来。
  
  AndroidManifest.xml里添加权限：
-
  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/> 
  <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
