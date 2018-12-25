@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">解压文件</string>
+    <string name="un_rar">UNRAR</string>
+    <string name="un_zip">UNZIP</string>
+    <string name="un_7z">UN7Z</string>
+</resources>
